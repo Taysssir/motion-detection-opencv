@@ -42,5 +42,6 @@ For Using Webcam and save motion detction :
 python motion_detector.py -i 0 -s True
 ```
 For Using Video File path and save motion detction :
-
+```
 python motion_detector.py -i videos/Fire.mp4 -s True
+```
